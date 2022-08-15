@@ -1,0 +1,35 @@
+.moiveform{
+    padding-top: 30px;
+    width: 650px;
+    height: 370px;
+    margin-top: 90px;
+}
+
+.moiveform form{
+    padding-left: 25px;
+    padding-bottom: 40px;
+    box-shadow: 0 10px 10px -6px #222;
+}
+.moiveform label{
+    font-size: 15px;
+    font-weight: 500;
+}
+.moiveform form input{
+    width: 600px;
+}
+
+.moiveform button{
+    margin-left: 465px;
+}
+.wrapflex{
+    display: flex;
+}
+.hour{
+    padding-left: 370px;
+}
+.card{
+    margin-top: 30px;
+    box-shadow: 0 6px 4px -1px green;
+
+}
+

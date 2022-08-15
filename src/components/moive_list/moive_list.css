@@ -1,0 +1,8 @@
+.group{
+    padding-top: 90px;
+    padding-left: 150px;
+}
+.group input{
+    width: 535px;
+    background: rgb(184, 225, 227);
+}
